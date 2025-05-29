@@ -25,15 +25,15 @@ Robot updates:
 
 Controller updates:
 	•	v0.02 
-    • Redesigned slot layout for magnets
-    • Improved multiplexer integration planning (16-slot handling)
-    • Block slot connections modularized for chaining multiple lanes
-    • Physical tolerances adjusted for smoother block insertion
+	    • Redesigned slot layout for magnets
+	    • Improved multiplexer integration planning (16-slot handling)
+	    • Block slot connections modularized for chaining multiple lanes
+	    • Physical tolerances adjusted for smoother block insertion
 	•	v0.01 
-    • Initial top + base housing modeled
-    • First slot row designed (8 resistor pins + 8 LED pins)
-    • ESP32 + multiplexer base layout established
-    • Controller form factor finalized for handheld use
+ 	   • Initial top + base housing modeled
+ 	   • First slot row designed (8 resistor pins + 8 LED pins)
+	   • ESP32 + multiplexer base layout established
+ 	   • Controller form factor finalized for handheld use
 
 Field updates:
   • v0.1 - Basic field mapped out
