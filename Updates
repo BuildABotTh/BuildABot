@@ -1,14 +1,30 @@
-WE ARE STILL IN DEVELOPMENT - ALL PARTS ARE STILL WORK IN PROGRESS - PLEASE DO NOT ATTEMPT TO BUILD THE ROBOTS YET
-Target release date is end of Q3 2024 (Delays are expected)
+#Updates and status on the development and production
 
-Current updates and progress:
+__WE ARE STILL IN DEVELOPMENT - ALL PARTS ARE STILL EARLY UNDERDEVELOPMENT - PLEASE DO NOT ATTEMPT TO RECREATE ANY FILES__
+** Target release date is end of Q3 2024 (Delays are expected) **
+
+##Current status:
+Robot V0.13 - Designing and producing custom PCBs, finalizing mechanical designs 
+Controller V0.02 - Testing design with physical prototype
+Field V0.1 - Basic layout complete, awaiting start of trial production
+Game elements V0.0 - Material testing
+
+##Product roadmap:
+Pilot testing with engineering prototypes of robots - Q3 2025
+Small-scale in-house production of robots - Q4 2025
+Small-scale in-house production of field and game elements - Q4.5 2025
+__ Target robot initial release date - December 2025 __
+Pilot testing and small-scale in-house production of controllers - Q1 2026
+Development of other modules and robot upgrade paths - Q2 2026
+
+##Current updates and progress:
   • Working on a custom PCB for the robot (In progress)
   • Wiring diagram for the robot (Basic diagram - Completed, Awaiting custom PCB)
   • Manufacturing basic working prototype (Awaiting custom PCB)
 
-Change logs
+#Change logs
 
-Robot updates:
+##Robot updates:
 	•	v0.13 – Fully assembleable frame completed; designed for pre-production test fit (no electronics installed yet)
 	•	v0.12 – Polished design: rounded corners, labeled zones, and visual clean-up
 	•	v0.11 – Added support features for PCB mounts and internal alignment pins
@@ -23,7 +39,7 @@ Robot updates:
 	•	v0.02 – Motor mounts designed and positioned
 	•	v0.01 - Initial concept frame sketched and modeled (no mounts or functional cutouts)
 
-Controller updates:
+##Controller updates:
 	•	v0.02 
 	    • Redesigned slot layout for magnets
 	    • Improved multiplexer integration planning (16-slot handling)
@@ -35,5 +51,5 @@ Controller updates:
 	   • ESP32 + multiplexer base layout established
  	   • Controller form factor finalized for handheld use
 
-Field updates:
+##Field updates:
   • v0.1 - Basic field mapped out
