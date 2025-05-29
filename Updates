@@ -1,0 +1,39 @@
+WE ARE STILL IN DEVELOPMENT - ALL PARTS ARE STILL WORK IN PROGRESS - PLEASE DO NOT ATTEMPT TO BUILD THE ROBOTS YET
+Target release date is end of Q3 2024 (Delays are expected)
+
+Current updates and progress:
+  • Working on a custom PCB for the robot (In progress)
+  • Wiring diagram for the robot (Basic diagram - Completed, Awaiting custom PCB)
+  • Manufacturing basic working prototype (Awaiting custom PCB)
+
+Change logs
+
+Robot updates:
+	•	v0.13 – Fully assembleable frame completed; designed for pre-production test fit (no electronics installed yet)
+	•	v0.12 – Polished design: rounded corners, labeled zones, and visual clean-up
+	•	v0.11 – Added support features for PCB mounts and internal alignment pins
+	•	v0.10 – Integrated vibration-resistant joints for semi-assembled kit assembly
+	•	v0.09 – Reinforced structure with reinforcement structures and motor supports
+	•	v0.08 – Electromagnet mount added for pickup functionality
+	•	v0.07 – Sensor housing added (for color sensors and object detection modules)
+	•	v0.06 – Battery compartment added with fitment updates
+	•	v0.05 – First physical prototype built and tested; adjusted mounting hole sizes and tolerances
+	•	v0.04 – Module mounting holes and cable routing channels added
+	•	v0.03 – Reworked and realigned all mounting holes for better consistency
+	•	v0.02 – Motor mounts designed and positioned
+	•	v0.01 - Initial concept frame sketched and modeled (no mounts or functional cutouts)
+
+Controller updates:
+	•	v0.02 
+    • Redesigned slot layout for magnets
+    • Improved multiplexer integration planning (16-slot handling)
+    • Block slot connections modularized for chaining multiple lanes
+    • Physical tolerances adjusted for smoother block insertion
+	•	v0.01 
+    • Initial top + base housing modeled
+    • First slot row designed (8 resistor pins + 8 LED pins)
+    • ESP32 + multiplexer base layout established
+    • Controller form factor finalized for handheld use
+
+Field updates:
+  • v0.1 - Basic field mapped out
